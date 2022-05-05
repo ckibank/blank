@@ -1,2 +1,2 @@
-# blank
-This is a blank repo
+# Blank Repo
+This is a blank repo.
